@@ -1,0 +1,7 @@
+name = "che-kung"
+type = "javascript"
+
+account_id = "f94e9216046f8820e35a521d046c6268"
+workers_dev = true
+route = ""
+zone_id = ""
