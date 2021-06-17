@@ -7,11 +7,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write '**/*.{js,css,json,md}'",
-    "pack": "browserify index.js -o bundle.js"
+    "pack": "browserify index.js -o bundle.js",
+    "publish": "wrangler publish",
+    "dev" : "wrangler dev"
   },
   "author": "Norman Kong",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "browserify": "^17.0.0"
   }
 }
