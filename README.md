@@ -1,4 +1,5 @@
 # Che Kung Fortune Stick API
+[![Publish](https://github.com/normankong/forex-api/actions/workflows/main.yml/badge.svg)](https://github.com/normankong/forex-api/actions/workflows/main.yml)  
 
 This is a API service to provide the Fortune Stick drawing and the explanation, host on Cloudflare Worker platform
 
